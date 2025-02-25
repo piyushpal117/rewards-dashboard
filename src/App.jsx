@@ -6,7 +6,7 @@ import RankCard from "./components/RankCard";
 import Home from "./components/Home";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Dashboard from "./pages/dashboard";
-import XpCard from "./components/xpcard";
+import XpCard from "./components/XpCard";
 import Keycard from "./components/Keycard";
 
 function App() {
