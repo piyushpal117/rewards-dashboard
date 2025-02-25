@@ -1,0 +1,21 @@
+.rankChest-card {
+  width: 150px;
+  height: 250px;
+  background: #1a1f38;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 5px;
+
+  transition: transform 0.3s ease-in-out;
+}
+.rank-card:hover {
+  transform: scale(1.05);
+}
+.openbtn {
+  size: 50%;
+  position: center;
+}
+.chest {
+  width: 120px;
+  height: auto;
+}

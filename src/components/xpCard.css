@@ -1,0 +1,86 @@
+.rank-card {
+  background-color: #0a0f24;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  color: white;
+  width: 320px;
+  text-align: center;
+  margin: 20px;
+}
+
+.rank-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.rank-header {
+  display: flex;
+  justify-content: space-between;
+  color: #b0b0b0;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.progress-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.progress-bg {
+  stroke: #222b45;
+  stroke-width: 6;
+  fill: none;
+}
+
+.progress-bar {
+  stroke: #30d158;
+  stroke-width: 6;
+  fill: none;
+  stroke-linecap: round;
+}
+
+.coin-icon {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+}
+
+.xp-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 14px;
+}
+
+.xp-amount {
+  color: #ffd700;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.xp-text {
+  color: #b0b0b0;
+}
+
+.gain-xp-btn {
+  width: 100%;
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 15px;
+  transition: background 0.3s;
+}
+
+.gain-xp-btn:hover {
+  background-color: #0056b3;
+}

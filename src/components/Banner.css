@@ -1,0 +1,13 @@
+.banner img {
+  /*
+  
+  width: 100%;
+  border-radius: 10px;
+*/
+
+  top: 0%;
+  left: 4%;
+  width: 100%;
+  object-fit: cover;
+  z-index: 10;
+}

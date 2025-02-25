@@ -1,0 +1,15 @@
+.sidebar {
+  position: fixed;
+  width: 20px;
+  height: 100vh;
+  background: #11162a;
+  padding: 15px;
+  transition: width 0.3s ease-in-out;
+  z-index: 10000;
+  /*
+
+  background: #333;
+  color: white;
+  padding: 20px;
+*/
+}
