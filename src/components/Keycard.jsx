@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import "./RankCard.css";
-import key from "../assets/images/Key.png";
+import key from "../assets/images/key.png";
 
 const Keycard = () => {
   return (
